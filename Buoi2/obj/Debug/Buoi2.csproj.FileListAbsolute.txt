@@ -1,0 +1,12 @@
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\bin\Debug\Buoi2.exe.config
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\bin\Debug\Buoi2.exe
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\bin\Debug\Buoi2.pdb
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.csproj.AssemblyReference.cache
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.Cau1.resources
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.Menu.resources
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.Properties.Resources.resources
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.csproj.GenerateResource.cache
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.csproj.CoreCompileInputs.cache
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.exe
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.pdb
+D:\WINDOWS\VoThiKimMen_0091\Buoi2\obj\Debug\Buoi2.Cau2.resources
