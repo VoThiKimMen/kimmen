@@ -1,0 +1,9 @@
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\bin\Debug\SLIDE7.exe.config
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\bin\Debug\SLIDE7.exe
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\bin\Debug\SLIDE7.pdb
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\obj\Debug\SLIDE7.csprojResolveAssemblyReference.cache
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\obj\Debug\SLIDE7.Form1.resources
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\obj\Debug\SLIDE7.Properties.Resources.resources
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\obj\Debug\SLIDE7.csproj.GenerateResource.Cache
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\obj\Debug\SLIDE7.exe
+D:\WINDOWS\BUỔI2\BUOI2\SLIDE7\obj\Debug\SLIDE7.pdb
